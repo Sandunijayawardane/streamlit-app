@@ -1,4 +1,4 @@
-link to the streamlit application 
+link to the streamlit application https://app-app-pmodwakylqnwbfskqbcwza.streamlit.app/
 
 Image Classification with Streamlit
 
