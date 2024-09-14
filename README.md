@@ -1,4 +1,4 @@
-line to the streamlit application 
+link to the streamlit application 
 
 Image Classification with Streamlit
 
